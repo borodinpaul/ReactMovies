@@ -320,3 +320,5 @@ export const moviesData = [
     release_date: "2018-05-03"
   }
 ];
+
+export default moviesData;
